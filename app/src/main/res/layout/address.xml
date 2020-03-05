@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/Titlebs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/ข้อมูลการส่งสินค้า"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/Job1"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/Job1" />
+
+
+    <TextView
+        android:id="@+id/Job2"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/Job2" />
+
+
+    <TextView
+        android:id="@+id/Job3"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/Job3" />
+
+    <TextView
+        android:id="@+id/Job4"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/Job4" />
+
+    <TextView
+        android:id="@+id/Job5"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/Job5" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="@dimen/place_autocomplete_powered_by_google_height"
+        android:text="@string/Confirm" />
+
+
+</LinearLayout>

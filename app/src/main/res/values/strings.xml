@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Appication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_Gps">Gps</string>
+    <string name="Inbox">Inbox</string>
+    <string name="Title">Title</string>
+    <string name="Address">Address</string>
+    <string name="Confirm">Confirm</string>
+    <string name="ข้อมูลการส่งสินค้า">ข้อมูลการส่งสินค้า</string>
+    <string name="Personalilty">Personalilty</string>
+    <string name="Job2">Job2</string>
+    <string name="Job1">Job1</string>
+    <string name="Job3">Job3</string>
+    <string name="Job4">Job4</string>
+    <string name="Job5">Job5</string>
+    <string name="msg_token_fmt">100</string>
+    <string name="msg_token" />
+    <string name="Nonotification">No Notification</string>
+    <string name="data">simpledata</string>
+    <string name="Text">Text</string>
+</resources>
